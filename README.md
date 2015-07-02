@@ -1,6 +1,5 @@
 # Personal Website  
-www.christophertraver.com
-The official personal website of Christopher J. Traver
+www.christophertraver.com - the official personal website of Christopher J. Traver
 
 ####Credits
 * Bootstrap Framework - http://getbootstrap.com/
