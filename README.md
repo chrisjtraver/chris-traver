@@ -6,4 +6,3 @@ The official personal website of Christopher J. Traver
 * Bootstrap Framework - http://getbootstrap.com/
 * Start Bootstrap Freelancer - http://startbootstrap.com/template-overviews/freelancer/
 * JQuery - https://jquery.com/
-* 
