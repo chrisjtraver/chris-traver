@@ -132,6 +132,23 @@ header .intro-text .skills {
     }
 }
 
+    .small-table {
+        display: none;
+    }
+    
+@media(max-width:475px) {
+    .big-table {
+        display: none;
+    }
+    .small-table {
+        display: block;
+    }
+    
+    .sml {
+        width: 250px;
+    }
+}
+
 @media(min-width:993px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -285,6 +302,8 @@ section.quote-section {
         margin: 0 0 30px;
     }
 }
+
+
 
 
 .btn-outline {
