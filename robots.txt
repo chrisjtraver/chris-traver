@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /resume/
-Disallow: /nugget/
 Disallow: /assets/
